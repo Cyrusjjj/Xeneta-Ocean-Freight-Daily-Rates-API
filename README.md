@@ -16,7 +16,7 @@ This Flask API provides average shipping rates for specified routes over given d
 # Launching the Docker Container
 
 ## Building the Container
-
+The goal is to run the database in the docker container and access it from the host machine.
 First, build the Docker container for the application using the provided Dockerfile:
 
 ```bash
